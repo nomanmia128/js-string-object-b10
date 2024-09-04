@@ -13,13 +13,13 @@ const person = {
 // dot symbol diye object er property er value access kora
 // console.log(person.profesion);
 const income = person.salary;
-// console.log(income);
+console.log(income);
 
 // bracket Notation
 // third bracket diye access kora
-console.log(person['age'])
-const boyos = person['age']
-console.log(boyos);
+// console.log(person['age'])
+// const boyos = person['age']
+// console.log(boyos);
 
-// 
-console.log(person['fav places'])
+// // 
+// console.log(person['fav places'])
